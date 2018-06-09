@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- TODO Remove the following "exclude" elements to make them a part of the auto backup -->
+    <!-- Exclude the shared preferences file that contains the GCM registrationId -->
+    <exclude
+        domain="sharedpref"
+        path="area.xml" />
+    <exclude
+        domain="sharedpref"
+        path="speed.xml" />
+    <exclude
+        domain="sharedpref"
+        path="pressure.xml" />
+    <exclude
+        domain="sharedpref"
+        path="length.xml" />
+    <exclude
+        domain="sharedpref"
+        path="volume.xml" />
+    <exclude
+        domain="sharedpref"
+        path="standard.xml" />
+    <exclude
+        domain="sharedpref"
+        path="programming.xml" />
+    <exclude
+        domain="sharedpref"
+        path="power.xml" />
+    <exclude
+        domain="sharedpref"
+        path="temp.xml" />
+    <exclude
+        domain="sharedpref"
+        path="data.xml" />
+    <exclude
+        domain="sharedpref"
+        path="weight.xml" />
+    <exclude
+        domain="sharedpref"
+        path="scientific.xml" />
+    <exclude
+        domain="sharedpref"
+        path="angles.xml" />
+    <exclude
+        domain="sharedpref"
+        path="time.xml" />
+    <exclude
+        domain="sharedpref"
+        path="main.xml" />
+</full-backup-content>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "317212602440",
+    "firebase_url": "https://all-in-one-calculator-ef0c3.firebaseio.com",
+    "project_id": "all-in-one-calculator-ef0c3",
+    "storage_bucket": "all-in-one-calculator-ef0c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317212602440:android:5bb521934dd11dfb",
+        "android_client_info": {
+          "package_name": "com.bashar963.smartcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317212602440-0l7su5shqhp6p32i1a57dsa9pusp0rca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8al84j2P-GQRfu644Inn6SY7k5iglvUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,235 @@
+<resources>
+    <string name="app_name">Calculator - GPA - Converters All in one</string>
+    <string name="app_name2">CALCULATOR - v1.3</string>
+    <string name="Me">Made by @basharqaddah </string>
+    <string name="app_name_label">Calculator</string>
+    <string name="facebook_app_id">1398713126909112</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="standard">STANDARD</string>
+    <string name="scientific">SCIENTIFIC</string>
+    <string name="programmer">PROGRAMMER</string>
+    <string name="gpaCalc">GPA CALCULATOR</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="plus">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">×</string>
+    <string name="division">÷</string>
+    <string name="equal">=</string>
+    <string name="plus_minus">±</string>
+    <string name="dot">.</string>
+    <string name="clear">C</string>
+    <string name="clearAll">CE</string>
+    <string name="percent">%</string>
+    <string name="sqRoot">√</string>
+    <string name="square">x^{ 2 }</string>
+    <string name="rad">RAD</string>
+    <string name="deg">DEG</string>
+    <string name="hyp">HYP</string>
+    <string name="del">backspace</string>
+    <string name="oneoverx">1/x</string>
+    <string name="rightBrackets">(</string>
+    <string name="liftBrackets">)</string>
+    <string name="factorial">n!</string>
+    <string name="PI">π</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="log">log</string>
+    <string name="exp">Exp</string>
+    <string name="hex">HEX</string>
+    <string name="oct">OCT</string>
+    <string name="dec">DEC</string>
+    <string name="bin">BIN</string>
+    <string name="lsh">Lsh</string>
+    <string name="rsh">Rsh</string>
+    <string name="rol">Rol</string>
+    <string name="ror">Rol</string>
+    <string name="or">Or</string>
+    <string name="and">And</string>
+    <string name="xor">Xor</string>
+    <string name="not">Not</string>
+    <string name="F">F</string>
+    <string name="E">E</string>
+    <string name="D">D</string>
+    <string name="C">C</string>
+    <string name="B">B</string>
+    <string name="A">A</string>
+    <string name="mod">MOD</string>
+    <string name="Byte">BYTE</string>
+    <string name="qword">QWORD</string>
+    <string name="dword">DWORD</string>
+    <string name="word">WORD</string>
+    <string name="gpa">GPA : </string>
+    <string name="addSupject">ADD SUBJECT</string>
+    <string name="removeSubject">REMOVE LAST SUBJECT</string>
+    <string name="reset">RESET</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="subject">SUBJECT</string>
+    <string name="credit">CREDIT</string>
+    <string name="degree_prompt">Choose a degree</string>
+    <string-array name="degree_arrays">
+        <item>A</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>F</item>
+    </string-array>
+    <string name="Converters">Converters</string>
+    <string name="volume">Volume</string>
+    <string name="length">Length</string>
+    <string name="weightMass">Weight and Mass</string>
+    <string name="temp">temperature</string>
+    <string name="energy">Energy</string>
+    <string name="area">Area</string>
+    <string name="speed">Speed</string>
+    <string name="time">Time</string>
+    <string name="power">Power</string>
+    <string name="data">Data</string>
+    <string name="pressure">Pressure</string>
+    <string name="angle">Angle</string>
+    <string name="night_mode">Night Mode</string>
+    <string-array name="volume">
+        <item>Milliliters</item>
+        <item>Cubic centimeters</item>
+        <item>Liters</item>
+        <item>Cubic meters</item>
+        <item>Ounce liquid(US)</item>
+        <item>Ounce liquid(UK)</item>
+        <item>Cubic inches</item>
+        <item>Cubic feet</item>
+        <item>Cubic yards</item>
+    </string-array>
+    <string-array name="length">
+        <item>Nanometers</item>
+        <item>Microns</item>
+        <item>Millimeters</item>
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Yards</item>
+        <item>Miles</item>
+        <item>Nautical miles</item>
+    </string-array>
+    <string-array name="weightmass">
+        <item>Carats</item>
+        <item>Milligrams</item>
+        <item>Centigrams</item>
+        <item>Decigrams</item>
+        <item>Grams</item>
+        <item>Dekagrams</item>
+        <item>Hectograms</item>
+        <item>Kilograms</item>
+        <item>Metric tonnes</item>
+        <item>Ounces</item>
+        <item>Pounds</item>
+        <item>Stone</item>
+        <item>Short tons(US)</item>
+        <item>Long tons(UK)</item>
+    </string-array>
+    <string-array name="temp">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="energy">
+        <item>Electron volts</item>
+        <item>Joules</item>
+        <item>Kilojoules</item>
+        <item>Thermal calories</item>
+        <item>Food calories</item>
+        <item>Foot-pounds</item>
+        <item>British thermal units</item>
+    </string-array>
+    <string-array name="area">
+        <item>Square millimeters</item>
+        <item>Square Centimeters</item>
+        <item>Square meters</item>
+        <item>Hectares</item>
+        <item>Square kilometers</item>
+        <item>Square inches</item>
+        <item>Square feet</item>
+        <item>Square yards</item>
+        <item>Acres</item>
+        <item>Square miles</item>
+    </string-array>
+    <string-array name="speed">
+        <item>Centimeters per second</item>
+        <item>Meters per second</item>
+        <item>Kilometers per hour</item>
+        <item>Feet per second</item>
+        <item>Miles per hour</item>
+        <item>Knots</item>
+        <item>Mach</item>
+    </string-array>
+    <string-array name="time">
+        <item>Microseconds</item>
+        <item>Milliseconds</item>
+        <item>Seconds</item>
+        <item>Minutes</item>
+        <item>Hours</item>
+        <item>Days</item>
+        <item>Weeks</item>
+        <item>Years</item>
+    </string-array>
+    <string-array name="power">
+        <item>Watts</item>
+        <item>Kilowatts</item>
+        <item>Horsepower</item>
+        <item>Foot-pounds/minute</item>
+        <item>BTUs/watts</item>
+    </string-array>
+    <string-array name="pressure">
+        <item>Atmospheres</item>
+        <item>Bars</item>
+        <item>Kilopascals</item>
+        <item>Millimeters of mercury</item>
+        <item>Pascals</item>
+        <item>Pounds per square inch</item>
+    </string-array>
+    <string-array name="angles">
+        <item>Degrees</item>
+        <item>Radians</item>
+        <item>Gradians</item>
+    </string-array>
+    <string-array name="data">
+        <item>Bits</item>
+        <item>Bytes</item>
+        <item>Kilobits</item>
+        <item>Kilobytes</item>
+        <item>Megabits</item>
+        <item>Megabytes</item>
+        <item>Gigabits</item>
+        <item>Gigabytes</item>
+        <item>Terabits</item>
+        <item>Terabytes</item>
+        <item>Petabits</item>
+        <item>Petabytes</item>
+        <item>Exabits</item>
+        <item>Exabytes</item>
+        <item>Zetabits</item>
+        <item>Zetabytes</item>
+        <item>Yottabits</item>
+        <item>Yottabytes</item>
+    </string-array>
+</resources>

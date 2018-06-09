@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <EditText
+        android:id="@+id/card_subject"
+        style="@style/Widget.AppCompat.EditText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.25"
+        android:ems="10"
+        android:hint="@string/subject"
+        android:inputType="textPersonName"
+        android:selectAllOnFocus="true" />
+
+    <EditText
+        android:id="@+id/card_crdit"
+        style="@style/Widget.AppCompat.EditText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.38"
+        android:ems="10"
+        android:hint="@string/credit"
+        android:inputType="number|numberSigned"
+        android:selectAllOnFocus="true" />
+
+    <Spinner
+        android:id="@+id/card_degree"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:entries="@array/degree_arrays"
+        android:prompt="@string/degree_prompt"
+        android:spinnerMode="dialog" />
+
+</LinearLayout>

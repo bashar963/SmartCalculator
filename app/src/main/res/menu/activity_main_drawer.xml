@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_standard"
+            android:title="@string/standard" />
+        <item
+            android:id="@+id/nav_scientific"
+            android:title="@string/scientific" />
+        <item
+            android:id="@+id/nav_programmer"
+            android:title="@string/programmer" />
+        <item
+            android:id="@+id/nav_gpa"
+            android:title="@string/gpaCalc" />
+    </group>
+    <item android:title="@string/Converters" >
+        <menu >
+            <item
+                android:id="@+id/nav_volume"
+                android:title="@string/volume" />
+            <item
+                android:id="@+id/nav_length"
+                android:title="@string/length" />
+            <item
+                android:id="@+id/nav_weightMass"
+                android:title="@string/weightMass" />
+            <item
+                android:id="@+id/nav_temp"
+                android:title="@string/temp" />
+            <item
+                android:id="@+id/nav_energy"
+                android:title="@string/energy" />
+            <item
+                android:id="@+id/nav_area"
+                android:title="@string/area" />
+            <item
+                android:id="@+id/nav_speed"
+                android:title="@string/speed" />
+            <item
+                android:id="@+id/nav_time"
+                android:title="@string/time" />
+            <item
+                android:id="@+id/nav_power"
+                android:title="@string/power" />
+            <item
+                android:id="@+id/nav_data"
+                android:title="@string/data" />
+            <item
+                android:id="@+id/nav_pressure"
+                android:title="@string/pressure" />
+            <item
+                android:id="@+id/nav_angle"
+                android:title="@string/angle" />
+        </menu>
+    </item>
+
+
+</menu>
